@@ -1,5 +1,5 @@
 # EDSC-pytorch
-Code for Multiple Video Frame Interpolation via Enhanced Deformable Separable Convolution [arXiv](https://arxiv.org/abs/2006.08070).
+Code for Multiple Video Frame Interpolation via Enhanced Deformable Separable Convolution [[arXiv](https://arxiv.org/abs/2006.08070)] .
 
 Pre-trained models
 ---
