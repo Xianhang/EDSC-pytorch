@@ -9,7 +9,7 @@ Google Drive
 
 Usage
 ---
-We provide two versions of our model. The `EDSC_s` model was trained to generate the midpoint (in time) of the two input frames. And you can either choose the `l1` or the `lf` model.
+We provide two versions of our model. The `EDSC_s` model was trained to generate the midpoint (in time) of the two input frames. And you can either choose the `l1` or the `lf` model for distortion and perceptual quality, respectively.
 
 We are good to run
 
