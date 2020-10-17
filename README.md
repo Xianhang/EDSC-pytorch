@@ -7,6 +7,20 @@ Pre-trained models
 
 [Baidu Cloud](https://pan.baidu.com/s/1kC7dEN2ZsMS7IdOLXVuDGQ) : bdfu
 
+Environment
+---
+We are good in the environment:
+
+CUDA 10.1
+
+Pytorch 1.0.0
+
+opencv-python 4.2.0
+
+numpy 1.18.1
+
+cupy 6.0.0
+
 Usage
 ---
 We provide two versions of our model. The `EDSC_s` model was trained to generate the midpoint (in time) of the two input frames. And you can either choose the `l1` or the `lf` model for distortion and perceptual quality, respectively.
