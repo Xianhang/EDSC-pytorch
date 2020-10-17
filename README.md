@@ -11,6 +11,8 @@ Environment
 ---
 We are good in the environment:
 
+python 3.7
+
 CUDA 10.1
 
 Pytorch 1.0.0
