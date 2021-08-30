@@ -40,3 +40,20 @@ python run.py --model EDSC_m --model_state EDSC_m.ckpt --time 0.1 --out out.png
 ```
 
 Please see the paper for more details.
+
+Citation
+---
+
+```
+@article{EDSC,
+    author={Cheng, Xianhang and Chen, Zhenzhong},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+    title={Multiple Video Frame Interpolation via Enhanced Deformable Separable Convolution}, 
+    year={2021},
+    doi={10.1109/TPAMI.2021.3100714}
+}
+```
+
+Acknowledgement
+---
+Part of the code was adapted from [sepconv-slomo](https://github.com/sniklaus/sepconv-slomo). A huge thanks to the authors!
